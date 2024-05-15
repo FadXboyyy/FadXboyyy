@@ -1,5 +1,5 @@
 <!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
-<p align="center"> <h1 align="center"> Hi, Fadly Rizki Maulana <img src="https://avatars.githubusercontent.com/u/112602738?s=400&u=39babbbe7af78c05a207a86b1e119d11092bde12&v=4" alt="Waving hand animated gif" height="45" width="45" /></h1> </p>
+<p align="center"> <h1 align="center"> Hi, Fadly Rizki Maulana <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /></h1> </p>
          
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=100053142750314&mibextid=JRoKGi"><img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
